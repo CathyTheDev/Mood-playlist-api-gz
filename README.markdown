@@ -191,11 +191,7 @@ mood-playlist-api/
 └── README.md              # Project documentation
 ```
 
-## Future Improvements
-- Add sorting and filtering for playlists (e.g., by creation date or genre).
-- Integrate a third-party music API (e.g., Spotify API) for real song data.
-- Add song recommendations based on user history.
-- Include unit tests using a framework like Jest.
+
 
 ## License
 This project is licensed under the MIT License.
